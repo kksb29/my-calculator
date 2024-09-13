@@ -85,9 +85,12 @@ button {
   .video-background{
     width:100%;
     height:100%;
+      position: fixed;
+    object-fit: cover;
+  z-index: -1;
   }
   .buttonStyle {
-    font-size: 1.9rem;
+    font-size: 2.2rem;
     padding: 10px;
   }
 
