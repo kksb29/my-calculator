@@ -82,7 +82,7 @@ button {
 
 @media (max-width: 600px) {
   .container{
-    height:50vh;
+    height:80vh;
   }
   .video-background{
     width:100%;
