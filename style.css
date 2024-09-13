@@ -81,20 +81,18 @@ button {
 }
 
 @media (max-width: 600px) {
-  .container{
-    height:50vh;
-  }
+
   .video-background{
     width:100%;
     height:100%;
   }
   .buttonStyle {
-    font-size: 1.2rem;
+    font-size: 1.9rem;
     padding: 10px;
   }
 
   .upper input {
-    font-size: 1.2rem;
+    font-size: 1.8rem;
   }
 
   h2 {
