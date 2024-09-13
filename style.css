@@ -83,9 +83,10 @@ button {
 @media (max-width: 600px) {
 
   .video-background{
-    width:100%;
+    width:100vw;
+    height:100vh;
     
-      position: fixed;
+     
     object-fit: cover;
   z-index: -1;
   }
